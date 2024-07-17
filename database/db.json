@@ -1,0 +1,294 @@
+{
+  "clientes": [
+    {
+      "id": "4C9uIjJPeOYp6ohhTFjteJziekS2",
+      "nome": "Teste D 1",
+      "cpf": "037.412.270-99",
+      "email": "tested1@teste.com"
+    },
+    {
+      "id": "9xAzEDYAbLSl4NjPbuv3kO9i3ED2",
+      "nome": "Artur Kops",
+      "cpf": "123.123.123-12",
+      "email": "arturkops@gmail.com"
+    },
+    {
+      "id": "1KKJo8a2EdgwEkR5BCNtrt55ogC2",
+      "nome": "monica piassini",
+      "cpf": "123.123.123-12",
+      "email": "moni_piassini@hotmail.com"
+    },
+    {
+      "id": "Fs6pTTK5pkaN2zvBKeKTMnKDzqK2",
+      "nome": "Artur Kops",
+      "cpf": "111.111.111-11",
+      "email": "testefinal@hotmail.com"
+    },
+    {
+      "id": "r6ymqWCY1LZ9vRyse1FCXCtcc163",
+      "nome": "Artur Kops",
+      "cpf": "123.123.123-12",
+      "email": "testefinal@hotmail.com"
+    },
+    {
+      "id": "Q5nhMLVHWKa5TuntYJdNsZ4xerk1",
+      "nome": "Artur Kops",
+      "cpf": "111.111.111-11",
+      "email": "testefinal@hotmail.com"
+    },
+    {
+      "id": "4AGrNQtDs0hAEtIBMAfqRBkE6il1",
+      "nome": "Artur Kops",
+      "cpf": "121.111.111-11",
+      "email": "testefinal@hotmail.com"
+    },
+    {
+      "id": "JlU3fkWjCCMnCyhAYy5CVm8hYz03",
+      "nome": "Artur Kops",
+      "cpf": "111.111.111-11",
+      "email": "testefinal@hotmail.com"
+    }
+  ],
+  "produtos": [
+    {
+      "id": "1",
+      "nome": "Mouse Logitech PRO SuperLight",
+      "preco": 699,
+      "categoria": "Mouse",
+      "marca": "Logitech",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_636152-MLU73140756457_112023-O.webp"
+    },
+    {
+      "id": "2",
+      "nome": "Geforce GTX 1050TI Asus",
+      "preco": 990.99,
+      "categoria": "Placa",
+      "marca": "Asus",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_632485-MLU71667560870_092023-O.webp"
+    },
+    {
+      "id": "3",
+      "nome": "Headset Wireless HyperX",
+      "preco": 499,
+      "categoria": "Headset",
+      "marca": "HyperX",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_875566-MLU77374962169_072024-O.webp"
+    },
+    {
+      "id": "4",
+      "nome": "Memória Ram 8gb HyperX",
+      "preco": 129.9,
+      "categoria": "RAM",
+      "marca": "HyperX",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_804526-MLB74132970950_012024-O.webp"
+    },
+    {
+      "id": "5",
+      "nome": "Logitech G Pro X Gaming Headset",
+      "preco": 129.99,
+      "categoria": "Headset",
+      "marca": "Logitech",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_798479-MLA74782658501_022024-O.webp"
+    },
+    {
+      "id": "6",
+      "nome": "Asus GeForce RTX 3080 Graphics Card",
+      "preco": 1199.99,
+      "categoria": "Placa",
+      "marca": "ASUS",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_924994-MLA52416081430_112022-O.webp"
+    },
+    {
+      "id": "7",
+      "nome": "Apple iPhone 13 Pro Max",
+      "preco": 1099,
+      "categoria": "Celular",
+      "marca": "Apple",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_937444-MLU77329980887_062024-O.webp"
+    },
+    {
+      "id": "8",
+      "nome": "Logitech MX Master 3 Wireless Mouse",
+      "preco": 99.99,
+      "categoria": "Mouse",
+      "marca": "Logitech",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_825841-MLA73983028816_012024-O.webp"
+    },
+    {
+      "id": "9",
+      "nome": "Samsung 970 EVO Plus 1TB NVMe SSD",
+      "preco": 149.99,
+      "categoria": "Armazenamento",
+      "marca": "Samsung",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_982234-MLA74652755942_022024-O.webp"
+    },
+    {
+      "id": "10",
+      "nome": "Razer BlackWidow V3 Gaming Keyboard",
+      "preco": 139.99,
+      "categoria": "Teclado",
+      "marca": "Razer",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_671765-MLU70500900792_072023-O.webp"
+    },
+    {
+      "id": "11",
+      "nome": "Dell UltraSharp 27' 4K Monitor",
+      "preco": 599.99,
+      "categoria": "Monitor",
+      "marca": "Dell",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_869786-MLU75135742871_032024-O.webp"
+    },
+    {
+      "id": "12",
+      "nome": "Sony WH-1000XM4 Noise-Canceling Headphones",
+      "preco": 349.99,
+      "categoria": "Headset",
+      "marca": "Sony",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_608345-MLU77382891671_072024-O.webp"
+    },
+    {
+      "id": "13",
+      "nome": "ASUS GeForce RTX 3080 Graphics Card",
+      "preco": 1599.99,
+      "categoria": "Placa",
+      "marca": "ASUS",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_683173-MLA74650246516_022024-O.webp"
+    },
+    {
+      "id": "14",
+      "nome": "Samsung Galaxy S21 Ultra 5G",
+      "preco": 1199.99,
+      "categoria": "Celulares",
+      "marca": "Samsung",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_969408-MLU75401927010_042024-O.webp"
+    },
+    {
+      "id": "15",
+      "nome": "Logitech G502 HERO Gaming Mouse",
+      "preco": 79.99,
+      "categoria": "Mouse",
+      "marca": "Logitech",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_882514-CBT75302394506_032024-O.webp"
+    },
+    {
+      "id": "16",
+      "nome": "Crucial P5 Plus 2TB NVMe SSD",
+      "preco": 299.99,
+      "categoria": "Armazenamento",
+      "marca": "Crucial",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_742837-MLU75592428453_042024-O.webp"
+    },
+    {
+      "id": "17",
+      "nome": "Corsair K95 Mechanical Gaming Keyboard",
+      "preco": 199.99,
+      "categoria": "Teclado",
+      "marca": "Corsair",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_812067-MLA45317771843_032021-O.webp"
+    },
+    {
+      "id": "18",
+      "nome": "LG 27-inch QHD Nano IPS Gaming Monitor",
+      "preco": 499.99,
+      "categoria": "Monitor",
+      "marca": "LG",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_715015-MLU72640725005_112023-O.webp"
+    },
+    {
+      "id": "19",
+      "nome": "G.SKILL Trident Z RGB 32GB (2 x 16GB) DDR4 RAM",
+      "preco": 179.99,
+      "categoria": "Ram",
+      "marca": "G.SKILL",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_704761-MLU72612727995_112023-O.webp"
+    },
+    {
+      "id": "20",
+      "nome": "Bose QuietComfort Earbuds",
+      "preco": 279,
+      "categoria": "Headset",
+      "marca": "Bose",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_723230-MLB76066097609_042024-O.webp"
+    },
+    {
+      "id": "21",
+      "nome": "EVGA GeForce RTX 3090 FTW3 Ultra Gaming Graphics Card",
+      "preco": 1999.99,
+      "categoria": "Placa",
+      "marca": "EVGA",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_949758-MLA48688406148_122021-O.webp"
+    },
+    {
+      "id": "22",
+      "nome": "Google Pixel 6 Pro",
+      "preco": 899,
+      "categoria": "Celular",
+      "marca": "Google",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_699582-MLB51444009157_092022-O.webp"
+    },
+    {
+      "id": "23",
+      "nome": "SteelSeries Rival 600 Gaming Mouse",
+      "preco": 79.99,
+      "categoria": "Mouse",
+      "marca": "SteelSeries",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_855646-MLB76543750127_052024-O.webp"
+    },
+    {
+      "id": "24",
+      "nome": "Samsung 980 PRO 1TB NVMe SSD",
+      "preco": 199.99,
+      "categoria": "Armazenamento",
+      "marca": "Samsung",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_946031-MLU74182768467_012024-O.webp"
+    },
+    {
+      "id": "25",
+      "nome": "Ducky One 2 Mini Mechanical Gaming Keyboard",
+      "preco": 99.99,
+      "categoria": "Teclado",
+      "marca": "Ducky",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_813164-CBT73715684142_012024-O.webp"
+    },
+    {
+      "id": "26",
+      "nome": "Acer Predator XB271HU 27-inch WQHD IPS Gaming Monitor",
+      "preco": 599.99,
+      "categoria": "Monitor",
+      "marca": "Acer",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_980888-MLB77076131378_062024-O.webp"
+    },
+    {
+      "id": "27",
+      "nome": "HyperX Fury RGB 32GB (2 x 16GB) DDR4 RAM",
+      "preco": 189.99,
+      "categoria": "Ram",
+      "marca": "HyperX",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_710963-MLB49900242293_052022-O.webp"
+    },
+    {
+      "id": "28",
+      "nome": "Sony WH-CH710N Wireless Noise-Canceling Headphones",
+      "preco": 179.99,
+      "categoria": "Headset",
+      "marca": "Sony",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_817982-MLB70793775773_072023-O.webp"
+    },
+    {
+      "id": "29",
+      "nome": "ZOTAC GeForce RTX 3070 Ti AMP Holo Graphics Card",
+      "preco": 899.99,
+      "categoria": "Placa",
+      "marca": "ZOTAC",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_654962-MLB74143105149_012024-O.webp"
+    },
+    {
+      "id": "30",
+      "nome": "Apple iPhone SE (2022)",
+      "preco": 429,
+      "categoria": "Celular",
+      "marca": "Apple",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_987388-MLB54363940872_032023-O.webp"
+    }
+  ]
+}
